@@ -2,7 +2,7 @@ export const SAR_URL = 'https://sar.bircom.in/'
 export const DONATE_URL = 'https://donate.bircom.in/#donate'
 export const BIRCOM_IN_URL = 'https://bircom.in/'
 export const TRACKER_URL = 'https://tracker.bircom.in/'
-export const SUPPORT_EMAIL = 'support@mail.bircom.in'
+export const SUPPORT_EMAIL = 'bircom.hp@gmail.com'
 export const CIN = 'U88900UP2025NPL229680'
 export const URN_80G = 'AANCB8208RF20251'
 
